@@ -8,6 +8,9 @@ contributor:
     deathdate: 1872
     gutenberg_agent_id: '55447'
     url: http://www.gutenberg.org/2009/agents/55447
+covers:
+- cover_type: archival
+  image_path: 69872-h/images/cover.jpg
 creator:
   author:
     agent_name: Moquin-Tandon, Alfred
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfred_Moquin-Tandon
     - https://fr.wikipedia.org/wiki/Alfred_Moquin-Tandon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69872#Le-monde-de-la-mer
 gutenberg_issued: '2023-01-24'
 identifiers:
   gutenberg: '69872'
